@@ -5,7 +5,7 @@ library(forecast)
 ## CREATE DATA FRAME FOR S&P500 STOCK PRICES. 
 
 # Set working directory for locating files.
-setwd("C:/Users/STSC/Desktop/Time Series/Group Project")
+setwd("C:/Users/STSC/Desktop/Air-Passengers/Time-Series-Project")
 
 
 # Create data frame.
